@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Flutter_ARM_R5_Basic")(type Legacy)(uri "/home/taylor/PCB/converted_flutter_basic/Flutter_ARM_R5_Basic.mod")(options "")(descr ""))
+)
